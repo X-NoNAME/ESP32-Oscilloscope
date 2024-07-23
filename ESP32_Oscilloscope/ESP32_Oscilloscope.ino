@@ -26,9 +26,9 @@
 //#define BUTTON_Minus        3
 //#define BUTTON_Back        27
 
-#define XPT2046_IRQ 36
+#define XPT2046_IRQ 27
 #define XPT2046_MOSI 32
-#define XPT2046_MISO 39
+#define XPT2046_MISO 26
 #define XPT2046_CLK 25
 #define XPT2046_CS 33
 
